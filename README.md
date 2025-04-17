@@ -1,4 +1,4 @@
-# CS131_Project
+# Smart Walking Cane (NaviCane)
 
 ## Use Case
 The problem we are addressing is the lack of better navigation and assistive devices for blind individuals. The industry our problem belongs to is the healthcare industry. Some challenges we foresee include but are not limited to: the need for accessible data/fast decision-making, for haptic feedback to be subtle yet noticeable, demanding navigation/computations which may affect latency, a device that must be lightweight and portable, for our device to be intuitive to use and practical, for our operations to be non-conflicting and concurrent, powerful sensors to drive our operations, persistent access to APIs that will drive our computations, efficient management of our data to monitor performance, and for our device to be as non-obtrusive as possible (such as incorporating headphones for audio updates). Below, we discuss our solution to the problem introduced above.
